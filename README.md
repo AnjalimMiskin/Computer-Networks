@@ -20,7 +20,7 @@ Sign in using your Cisco Networking Academy credentials.
 
 Click on File > Open in Cisco Packet Tracer.
 Navigate to the location of the Cisco Packet Tracer.pkt file and open it.
-![Image](https://github.com/user-attachments/assets/2fe92717-b1d7-4a7b-85ab-3f9e44ea44b8)
+
 
 3.Explore the Network Topology:
 
